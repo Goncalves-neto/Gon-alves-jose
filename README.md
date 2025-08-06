@@ -2,7 +2,7 @@
 # Goncalves jose 
 **Desenvolvedor FullStack**
 
-Meu nome é Goncalves jose, tenho 19 anos e sou natural de Fortaleza (CE). Sou técnico em Análise e Desenvolvimento
+Meu nome é Goncalves jose, tenho 19 anos e sou natural de Fortaleza (CE). Técnico em Análise e Desenvolvimento de sistemas.
 
 
 
